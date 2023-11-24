@@ -11,6 +11,8 @@ I am a software engineering student at Alx Africa, currently learning several pr
 
 Skills
 C JavaScript Python HTML5 React NextJs TailwindCSS MySQL MongoDB
+![image](https://github.com/JustusOmbok/JustusOmbok/assets/120080390/2ea6b836-933d-4731-a834-674e2e66eb9c)
+
 
 Socials
    
