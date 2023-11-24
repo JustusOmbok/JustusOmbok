@@ -1,16 +1,27 @@
-### Hi there 👋
+Hi 👋 My name is Justus Ombok
+software engineer
+I am a software engineering student at Alx Africa, currently learning several programming languages including C, Python, SQL, JavaScript, HTML, and CSS. As a student, I am focused on building a solid foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, I aim to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
 
-<!--
-**JustusOmbok/JustusOmbok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I'm based in Nairobi, Kenya
+✉️  You can contact me at ombokjustus@gmail.com
+🚀  I'm currently working towards being a full-stack engineer.
+🧠  I'm learning as many things as I can about software engineering.
+🤝  I'm open to collaborating on interesting projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+C JavaScript Python HTML5 React NextJs TailwindCSS MySQL MongoDB
+
+Socials
+   
+
+Badges
+My GitHub Stats
+
+ombok's GitHub stats
+
+
+
+GitHub Commits Graph
+
+Top Languages
