@@ -9,7 +9,7 @@ I am a software engineering student at Alx Africa, currently learning several pr
 🤝 Actively participating in the developer community and collaborating on open-source projects.
 
 ## 🛠️ Technologies & Tools:
-Python JavaScript Node.js MYSQL MongoDB HTML/CSS C
+Python JavaScript Node.js MySQL MongoDB HTML/CSS C
 
 ## How To Reach Me... 📫
 - https://www.linkedin.com/in/justus-ombok-7aa675202/    
